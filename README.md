@@ -1,5 +1,6 @@
 # RealTime App
-Web app for real time notifications
+Web app for real time notifications<br>
+La idea principal radica en actualizar en tiempo real la pantalla del frontend cada que se realicen actualizaciones o eliminaciones de los elementos que conforman el menu
 <h3 align="left">Objetivo</h3>
 Mi objetivo con este proyecto era aplicar angular version 20(signals,RXjs,routes,pipes,components,pages,services,@Input(),inject,ReactiveForms), Ionic 8 y laravel versión 12 e incorporarle pusher para las notificaciones.
 <h3 align="left">Aprendizaje adquirido</h3>
