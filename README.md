@@ -22,18 +22,15 @@ Considero que lo importante no es que tan grande o que tan pequeño sea el proye
 
 <table width="100%">
 <tr>
-  <td width="50%">
+  <td width="33%">
 <h3 align="center">Login</h3>
 <div align="center">
 <img src="https://i.imgur.com/9S0T7om.jpeg" width="250" alt="pet qr login">
-  
-
-
 </div>
                                                                                       
 </td>
 
-<td width="50%">
+<td width="33%">
 <h3 align="center">Home</h3>
 <div align="center">
 <img src="https://i.imgur.com/29N6Xci.jpeg" width="250" alt="pet qr home">
@@ -43,7 +40,16 @@ Considero que lo importante no es que tan grande o que tan pequeño sea el proye
 </div>
                                                                                       
 </td>
+<td width="33%">
+<h3 align="center">Home</h3>
+<div align="center">
+<img src="https://i.imgur.com/29N6Xci.jpeg" width="250" alt="pet qr home">
+  
 
+
+</div>
+                                                                                      
+</td>
 
 </tr>
 </table>     
