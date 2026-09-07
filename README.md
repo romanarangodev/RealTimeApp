@@ -8,7 +8,7 @@ Frontend y Backend<br>
 Obtuve mucho conocimiento en la realización y desarrollo de este proyecto. Desde como esta relacionado NodeJS, con angular  y ionic, hasta las experiencias, tanto buenas y malas, de subir tu aplicacion a un servidor compartido tanto del lado del frontend como del lado del backend. Por su parte, Pusher tambien tiene restricciones y limitaciones cuando se implementa. Dentro de ellas esta: el costo y la restricción del numero de usuarios concurrentes por cada plan de pago.
 <h3 align="left">Conclusión</h3>
 Considero que lo importante no es que tan grande o que tan pequeño sea el proyecto, sino como aplicas los conocimientos que adquieres. El planteamiento de las bases aplica tanto para un proyecto pequeño como para un proyecto grande.
-<h3 align="left">Tools and technologies</h3>
+<h3 align="left">Herramientas y tecnologías</h3>
 <ul>
   <li>Ionic</li>
   <li>Angular</li>
