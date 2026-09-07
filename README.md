@@ -2,7 +2,7 @@
 Web app for real time notifications<br>
 La idea principal radica en actualizar en tiempo real la pantalla del frontend cada que se realicen actualizaciones o eliminaciones de los elementos que conforman el menu
 <h3 align="left">Objetivo</h3>
-Mi objetivo con este proyecto era aplicar angular version 20(signals,RXjs,routes,pipes,components,pages,services,@Input(),inject,ReactiveForms), Ionic 8 y laravel versión 12 e incorporarle pusher para las notificaciones.
+Mi objetivo con este proyecto era aplicar angular version 20(signals,RXjs,routes,pipes,components,pages,services,@Input(),inject,ReactiveForms), Ionic 8 y laravel versión 12 e incorporarle pusher para el manejo del envio de eventos.
 <h3 align="left">Aprendizaje adquirido</h3>
 Obtuve mucho conocimiento en la realización y desarrollo de este proyecto. Desde como esta relacionado NodeJS, con angular  y ionic, hasta las experiencias, tanto buenas y malas, de subir tu aplicacion a un servidor compartido tanto del lado del frontend como del lado del backend. Por su parte, Pusher tambien tiene restricciones y limitaciones cuando se implementa. Dentro de ellas esta: el costo y la restricción del numero de usuarios concurrentes por cada plan de pago.
 <h3 align="left">Conclusión</h3>
