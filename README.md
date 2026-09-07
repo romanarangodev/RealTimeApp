@@ -33,7 +33,7 @@ Considero que lo importante no es que tan grande o que tan pequeño sea el proye
 </td>
 
 <td width="33%">
-<h3 align="center">FrontEnd</h3>
+<h3 align="center">Frontend</h3>
 <div align="center">
 <img src="https://itisacv.com.mx/githubprofile/menulive-2.png" width="250" alt="home">
   
