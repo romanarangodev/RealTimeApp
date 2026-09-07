@@ -1,10 +1,11 @@
 # RealTime App
-Web app for pet real time notifications
+Web app for real time notifications
 <h3 align="left">Tools and technologies</h3>
 <ul>
   <li>Ionic</li>
   <li>Angular</li>
   <li>API RestFull</li>
+  <li>Pusher</li>
   <li>Laravel</li>
   <li>Eloquent</li>
   <li>CSS</li>
