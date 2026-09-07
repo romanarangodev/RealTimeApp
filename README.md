@@ -20,7 +20,7 @@ Considero que lo importante no es que tan grande o que tan pequeño sea el proye
   
 </ul>
 
-<table>
+<table width="100%">
 <tr>
   <td width="50%">
 <h3 align="center">Login</h3>
