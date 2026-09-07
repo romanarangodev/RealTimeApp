@@ -25,7 +25,7 @@ Considero que lo importante no es que tan grande o que tan pequeño sea el proye
   <td width="33%">
 <h3 align="center">Login</h3>
 <div align="center">
-<img src="https://i.imgur.com/9S0T7om.jpeg" width="250" alt="pet qr login">
+<img src="https://itisacv.com.mx/githubprofile/menulive-1.png" width="250" alt="pet qr login">
 </div>
                                                                                       
 </td>
@@ -33,7 +33,7 @@ Considero que lo importante no es que tan grande o que tan pequeño sea el proye
 <td width="33%">
 <h3 align="center">Home</h3>
 <div align="center">
-<img src="https://i.imgur.com/29N6Xci.jpeg" width="250" alt="pet qr home">
+<img src="https://itisacv.com.mx/githubprofile/menulive-2.png" width="250" alt="pet qr home">
   
 
 
