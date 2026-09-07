@@ -1,5 +1,8 @@
 # RealTime App
 Web app for real time notifications
+Objetivo: Mi objetivo con este proyecto era aplicar angular version 20(signals,RXjs,routes,pipes,components,pages,services,@Input(),inject,ReactiveForms), Ionic 8 y laravel versión 12 e incorporarle pusher para las notificaciones.
+Aprendizaje adquirido: Obtuvo mucho conocimiento en la realización y desarrollo de este proyecto. Desde como esta relacionado NodeJS, con angular  y ionic, hasta las experiencias, tanto buenas y malas, de subir tu aplicacion a un servidor compartido tanto del lado del frontend como del lado del backend
+Conclusión: Considero que lo importante no es que tan grande o que tan pequeño sea el proyecto, sino como aplicas los conocimientos que adquieres. El planteamiento de las bases aplica tanto para un proyecto pequeño como para un proyecto grande.
 <h3 align="left">Tools and technologies</h3>
 <ul>
   <li>Ionic</li>
